@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1712869740 source:d:\universidad uso\ciclo iii\programación ii\clase 10 g01 - fredy alexander campos figueroa\herencia - clase trabajador\main.cpp
+	<iostream>
+	<string>
+	"Trabajador.h"
+
+1712870584 d:\universidad uso\ciclo iii\programación ii\clase 10 g01 - fredy alexander campos figueroa\herencia - clase trabajador\trabajador.h
+	"Persona.h"
+
+1712864725 d:\universidad uso\ciclo iii\programación ii\clase 10 g01 - fredy alexander campos figueroa\herencia - clase trabajador\persona.h
+	<string>
+
